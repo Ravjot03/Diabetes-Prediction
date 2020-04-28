@@ -6,7 +6,7 @@ About one in seven U.S. adults has diabetes now, according to the Centers for Di
 
 ## Dataset :
 
-The diabetes data set was originated from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php) and can be downloaded from [here](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/diabetes.csv).
+The diabetes data set was originated from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php) and can be downloaded from [here](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/diabetes.csv) (Also provided in the repo).
 
 ## Libraries Used :
   1. Numpy
